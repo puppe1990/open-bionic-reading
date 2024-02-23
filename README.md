@@ -14,7 +14,7 @@ This repository contains a simple web application designed to simulate the Bioni
 
 ## Installation
 - Clone the repository to your local machine:
-- git clone https://your-repository-url.git
+- git clone https://github.com/puppe1990/open-bionic-reading.git
 - Open the index.html file in your web browser.
 
 ## Usage
@@ -27,13 +27,14 @@ This repository contains a simple web application designed to simulate the Bioni
 
 ## Fork the repository.
 - Create a new branch (git checkout -b feature/AmazingFeature).
-Make your changes.
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-License
-Distributed under the MIT License. See LICENSE for more information.
+- Make your changes.
+- Commit your changes (git commit -m 'Add some AmazingFeature').
+- Push to the branch (git push origin feature/AmazingFeature).
+- Open a pull request.
 
-Acknowledgments
-Bootstrap for the responsive framework.
-All contributors who help to improve this project.
+## License
+- Distributed under the MIT License. See LICENSE for more information.
+
+## Acknowledgments
+- Bootstrap for the responsive framework.
+- All contributors who help to improve this project.
