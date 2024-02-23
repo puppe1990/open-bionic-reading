@@ -1,5 +1,8 @@
 # Bionic Reading Simulator
 
+![image](https://github.com/puppe1990/open-bionic-reading/assets/8432835/2227d79a-6c62-4fc0-90d3-86f71f741ea2)
+
+
 ## Project Overview
 This repository contains a simple web application designed to simulate the Bionic Reading experience. Bionic Reading is a reading method that enhances the reading experience by highlighting the most significant parts of words, helping the brain to focus and understand text faster. This project utilizes HTML, CSS, Bootstrap for responsive design, and JavaScript for dynamic text processing.
 
